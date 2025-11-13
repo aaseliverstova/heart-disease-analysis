@@ -22,7 +22,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/yourusername/heart-disease-analysis.git
+git clone https://github.com/aaseliverstova/heart-disease-analysis.git
 
 # Запустить Jupyter
 jupyter notebook
